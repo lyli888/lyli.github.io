@@ -83,12 +83,12 @@ a {
 }
 
 #contact-info {
-  position: absolute;
+  position: relative;
   top: 150 px,
   right: 0;
   width: 40%;
   height: 200px;
-  text-align: left;
+  text-align: center;
 }
 
 #bio-image {
