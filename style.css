@@ -69,7 +69,7 @@ a {
 }
 
 #figure {
-  position: absolute;
+  position: relative;
   margin-top: 5%;
   margin-left: 0;
 }
@@ -93,9 +93,9 @@ a {
 }
 
 #bio-image {
-  position: absolute;
+  position: relative;
   width: 200px;
   height: 200px;
-  margin-top: 20%;
+  margin-top: 0;
   margin-left: 0;
 }
