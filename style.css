@@ -66,13 +66,15 @@ a {
 }
 
 #figure {
-  position: relative;
+  position: absolute;
+  margin-top: 20%;
+  margin-left: 0;
 }
 
 #bio-name {
-  position: absolute;
-  top: 20%;
-  left: 0;
+  position: relative;
+  margin-top: 20%;
+  margin-left: 0;
 }
 
 #main-bio {
