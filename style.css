@@ -5,7 +5,7 @@
 /* Styling for HTML elements */
 body {
   padding: 2%;
-  margin-left: 3%;
+  margin-left: 5%;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 150%;
@@ -17,6 +17,7 @@ body {
 header {
   padding: 2%;
   margin-bottom: 3%;
+  margin-left: 2%;
   background: #333;
   text-align: center;
 }
