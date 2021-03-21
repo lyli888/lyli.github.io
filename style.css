@@ -15,19 +15,21 @@ body {
 
 header {
   background: #333;
+  text-align: center;
 }
 
 h1 {
   padding: 20px 0;
   margin: 0;
   margin-top: 20px;
-  font-size: 28px;
+  font-size: 24px;
   color: #eee;
   text-align: center;
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
+  text-align: right;
 }
 
 a {
@@ -37,7 +39,9 @@ a {
 
 
 h3 {
-  font-size: 24px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  text-align: center;
 }
 
 a {
@@ -59,13 +63,13 @@ a {
 }
 
 #figure {
-  position: absolute;
+  position: relative;
 }
 
 #bio-name {
   position: relative;
-  top: 150px;
-  left: 30px;
+  top: 200px;
+  left: 0px;
 }
 
 #main-bio {
@@ -79,6 +83,6 @@ a {
 #bio-image {
   width: 200px;
   height: 200px;
-  margin-top: 5px;
-  margin-left: 5px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
