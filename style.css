@@ -5,7 +5,7 @@
 /* Styling for HTML elements */
 body {
   padding: 0;
-  margin: 2%;
+  margin: 5%;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 150%;
@@ -70,7 +70,7 @@ a {
 
 #figure {
   position: absolute;
-  margin-top: 20%;
+  margin-top: 5%;
   margin-left: 0;
 }
 
