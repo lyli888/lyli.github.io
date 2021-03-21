@@ -2,4 +2,4 @@
 
 Page URL: https://lyli888.github.io/lyli.github.io/
 
-I'm an amateur coding practicing my HTML & CSS! Wish me luck! 
+I'm an amateur coder practicing my HTML & CSS! Wish me luck! 
