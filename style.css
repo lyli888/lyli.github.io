@@ -75,8 +75,8 @@ a {
 }
 
 #bio-name {
-  position: absolute;
-  margin-top: 20%;
+  position: relative;
+  margin-top: 10%;
   margin-left: 0;
 }
 
@@ -93,7 +93,7 @@ a {
 }
 
 #bio-image {
-  position: absolute;
+  position: relative;
   width: 200px;
   height: 200px;
   margin-top: 0;
