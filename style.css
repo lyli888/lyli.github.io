@@ -6,7 +6,7 @@
 body {
   padding: 2%;
   margin-left: 4%;
-  margin-right: 2%;
+  margin-right: 4%;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   line-height: 150%;
@@ -19,8 +19,8 @@ header {
   padding: 2%;
   margin-top: 0;
   margin-bottom: 2%;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: 3%;
+  margin-right: 3%;
   background: #333;
   text-align: center;
 }
