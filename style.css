@@ -16,8 +16,8 @@ body {
 }
 
 header {
-  padding-left: 5%;
-  paddling-right: 5%;
+  padding-left: 10%;
+  paddling-right: 10%;
   margin-top: 0;
   margin-bottom: 2%;
   margin-left: 0;
@@ -27,7 +27,7 @@ header {
 }
 
 h1 {
-  padding: 3%;
+  padding: 2%;
   margin: 0;
   font-size: 22px;
   color: #eee;
