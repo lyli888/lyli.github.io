@@ -89,5 +89,7 @@ a {
 #bio-image {
   width: 250px;
   height: 250px;
+  top: 0;
+  left: 0;
   margin-right: 30px;
 }
