@@ -32,6 +32,16 @@ h2 {
 
 a {
   color: #d21034;
+
+}
+
+h2 {
+  font-size: 22px;
+}
+
+a {
+  color: #eeee;
+
 }
 
 /* Selecting elements by class */
