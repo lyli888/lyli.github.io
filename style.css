@@ -16,12 +16,12 @@ body {
 }
 
 header {
-  width: 100%,
   padding: 2%;
   margin-top: 0;
   margin-bottom: 2%;
   margin-left: 4%;
   margin-right: 4%;
+  width: 100%,
   background: #2e1503;
   text-align: center;
 }
