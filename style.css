@@ -20,10 +20,10 @@ header {
 h1 {
   padding: 20px 0;
   margin: 0;
-  margin-bottom: 20px;
+  margin-top: 20px;
   font-size: 28px;
   color: #eee;
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
@@ -79,5 +79,5 @@ a {
 #bio-image {
   width: 200px;
   height: 200px;
-  margin-right: 20px;
+  margin-left: 20px;
 }
