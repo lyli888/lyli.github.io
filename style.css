@@ -70,7 +70,6 @@ a {
 
 #figure {
   position: relative;
-  margin-left: 0;
 }
 
 #bio-name {
@@ -80,7 +79,6 @@ a {
 }
 
 #main-bio {
-  padding: 5%;
   width: 60%;
 }
 
