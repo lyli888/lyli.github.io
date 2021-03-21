@@ -83,6 +83,9 @@ a {
 }
 
 #contact-info {
+  position: absolute;
+  top: 150 px,
+  right: 0;
   width: 40%;
   height: 200px;
   text-align: left;
