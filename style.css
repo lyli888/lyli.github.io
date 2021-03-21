@@ -68,13 +68,13 @@ a {
 }
 
 #figure {
-  position: relative;
+  position: absolute;
   margin-top: 20%;
   margin-left: 0;
 }
 
 #bio-name {
-  position: relative;
+  position: absolute;
   margin-top: 20%;
   margin-left: 0;
 }
