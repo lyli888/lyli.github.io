@@ -70,7 +70,6 @@ a {
 
 #figure {
   position: relative;
-  margin-top: 5%;
   margin-left: 0;
 }
 
@@ -83,7 +82,6 @@ a {
 #main-bio {
   padding: 5%;
   width: 60%;
-  margin-left: 10%
 }
 
 #contact-info {
