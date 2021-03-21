@@ -74,9 +74,9 @@ a {
 }
 
 #bio-name {
-  position: relative;
-  margin-top: 10%;
-  margin-left: 0;
+  position: absolute;
+  top: 150px;
+  left: 30px;
 }
 
 #main-bio {
@@ -95,5 +95,5 @@ a {
   width: 200px;
   height: 200px;
   margin-top: 0;
-  margin-left: 0;
+  margin-right: 20px;
 }
