@@ -67,7 +67,7 @@ a {
 }
 
 #bio-name {
-  position: relative;
+  position: absolute;
   top: 0px;
   left: 0px;
 }
@@ -78,11 +78,13 @@ a {
 
 #contact-info {
   width: 30%;
+  height: 200px;
+  text-align: right;
 }
 
 #bio-image {
   width: 200px;
   height: 200px;
-  margin-top: 5px;
+  margin-top: 2px;
   margin-left: 0px;
 }
