@@ -4,11 +4,11 @@
 
 /* Styling for HTML elements */
 body {
-  padding: 5%;
+  padding: 0;
   margin: 5%;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
-  line-height: 120%;
+  line-height: 150%;
   color: #333;
   background: #efeee7;
 }
@@ -41,7 +41,7 @@ a {
 h3 {
   margin-top: 10%;
   margin-bottom: 0;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
 }
 
@@ -69,7 +69,7 @@ a {
 
 #bio-name {
   position: relative;
-  top: 0px;
+  top: 5%;
   left: 0px;
 }
 
