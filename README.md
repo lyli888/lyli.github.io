@@ -1,3 +1,7 @@
+#Personal Profile Page
+
+I'm an amateur coding practicing my HTML & CSS! Wish me luck! Page URL: https://lyli888.github.io/lyli.github.io/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lyli888/lyli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
