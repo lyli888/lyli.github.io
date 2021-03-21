@@ -68,7 +68,7 @@ a {
 }
 
 #figure {
-  position: absolute;
+  position: relative;
   margin-top: 20%;
   margin-left: 0;
 }
