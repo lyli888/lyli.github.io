@@ -41,7 +41,7 @@ h3 {
 }
 
 a {
-  color: #eeeeee;
+  color: #ffffff;
 }
 
 
@@ -59,7 +59,7 @@ a {
 }
 
 #figure {
-  position: relative;
+  position: absolute;
 }
 
 #bio-name {
