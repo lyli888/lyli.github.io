@@ -43,7 +43,6 @@ h2 {
 
 a {
   color: #c0c0c0;
-
 }
 
 
@@ -55,6 +54,7 @@ h3 {
 }
 
 a {
+  margin-left: 10%;
   color: #ffffff;
 }
 
